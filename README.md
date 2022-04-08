@@ -4,7 +4,8 @@ This repository contains our Final project in Java For Machine Learning Course
 
 We created Exploratory Data analysis on wuzzuf Dataset using Spark core and spark SQL then deployed our job using Spring boot web service And made some visualization Using Xchart and display All outputs in the webservice
 
-#Project Functionality:
+#  Project Functionality:
+
 1- Read dataset From csv and convert it to spark DataSet of Row.
 
 2- Display structure and summary of data using webservice.
@@ -27,7 +28,9 @@ We created Exploratory Data analysis on wuzzuf Dataset using Spark core and spar
 
 11- factorize the YearsEXP column to numbers then add the new column to the dataset
 
-#Environment:
+#  Environment:
+
+
 path to spring webService: http://localhost:8080/
 
 EX:http://localhost:8080/display-data   to view first 10 jobs in the dataset
